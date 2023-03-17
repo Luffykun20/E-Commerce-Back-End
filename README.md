@@ -42,7 +42,7 @@ The following video goes through every steps mentioned before and also shows the
 
 ## [Test](#table-of-contents)
 
-There are 4 test suites with a total of 14 tests to ensure proper functioning of each extension of the Employee class (Manager, Engineer, and Intern)
+N/A
 
 
 

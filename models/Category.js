@@ -2,8 +2,10 @@ const { Model, DataTypes } = require('sequelize');
 
 const sequelize = require('../config/connection.js');
 
+//create category model
 class Category extends Model { }
 
+// create fields/columns and rules for category model
 Category.init(
   {
     id: {

@@ -35,11 +35,7 @@ To use this application:
 
 The following video goes through every steps mentioned before and also shows the use of GET, POST, PUT, and DELETE requests in the Insomnia to get, create, modify, or delete database information:[DemostrationVideo](https://drive.google.com/file/d/1wxePOUo-SCDd0iTOjHQugo1sqNP7rkLD/view)
 
-
-![MyTeam-Profile](assets/MyTeam.PNG)
     
-
-
   ## [Contributing](#table-of-contents)
 
   Thanks! But I am not accepting foreign contributions at the moment.

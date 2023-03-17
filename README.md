@@ -28,13 +28,13 @@ To install this Command-line application:
 ## [Usage](#table-of-contents)
     
 To use this application:
-* 
-* Enter the command "node index.js" and answer the prompted questions.
+* Sequelize to a database by signing into MYSQL commands
+* once into MYSQL commands, run the following command "source db/schema.sql" to create and connect database
+* Then, enter the command "npm run seed"(in the terminal of your preference), to seed information into database   
+* Finally, enter the command "node server" to start application
 
-The following video link demostrates the steps four using this application: [Demostration]
+The following video goes through every steps mentioned before and also shows the use of GET, POST, PUT, and DELETE requests in the Insomnia to get, create, modify, or delete database information:[DemostrationVideo](https://drive.google.com/file/d/1wxePOUo-SCDd0iTOjHQugo1sqNP7rkLD/view)
 
-
-The following image shows how the Team-Profile website will look like: [DemostrationVideo](https://drive.google.com/file/d/1R2_cjcYuZGVCXOzEj4FOE4uwt-9no-ve/view)
 
 ![MyTeam-Profile](assets/MyTeam.PNG)
     
